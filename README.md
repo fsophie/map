@@ -1,6 +1,6 @@
 # Map
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
+This simple app allows you to locate an address or find the probable address based on your location.
 
 # Leaflet
 This project is based on [Leaflet](https://leafletjs.com/)
